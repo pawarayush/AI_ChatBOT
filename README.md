@@ -10,3 +10,7 @@ A chatbot application designed to accept both image inputs and simple text promp
 - Text-Based Communication: Gemini Pro AI responds to text prompts from users, offering relevant information and assistance.
 - API Integration: The chatbot utilizes the Gemini Pro API for image analysis and processing, enabling advanced functionalities.
 - Modern Technology Stack: Developed using Android Studio, Kotlin, Jetpack Compose, Retrofit library, and other contemporary technologies.
+
+
+https://github.com/pawarayush/AI_ChatBOTE/assets/83081853/9aafada7-94d9-4e66-b68a-9d67aa740f70
+
