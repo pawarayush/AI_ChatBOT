@@ -12,5 +12,9 @@ A chatbot application designed to accept both image inputs and simple text promp
 - Modern Technology Stack: Developed using Android Studio, Kotlin, Jetpack Compose, Retrofit library, and other contemporary technologies.
 
 
-https://github.com/pawarayush/AI_ChatBOTE/assets/83081853/9aafada7-94d9-4e66-b68a-9d67aa740f70
+
+
+#Video
+
+https://github.com/pawarayush/AI_ChatBOTE/assets/83081853/47e01482-ee9b-4f9b-b75f-b170caa20878
 
