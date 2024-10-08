@@ -13,7 +13,7 @@ import okhttp3.Response
 object ChatData {
 
 
-    val api_key = "AIzaSyATv-YcKCR2G4545BolxP2Hm35keUBYUh4"
+    val api_key = "AIzaSyCD4oUHSJVFTqRJcgelIPdDuQMfaI7Gcq0"
 
     suspend fun getResponse(prompt: String): Chat {
 
